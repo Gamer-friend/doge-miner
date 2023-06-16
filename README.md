@@ -1,7 +1,10 @@
 # doge-miner
-Hello if you want to copy this project
+Hello
 
-Just fork it in the top right corner
+I made a repo 
 
+thats doge miner 
+
+enjoy
 
 <img src="favicon.ico" alt="Doge"> <img src="png4git.png" alt="Screenshot">
